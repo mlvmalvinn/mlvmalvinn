@@ -1,3 +1,9 @@
+# Halo semua! 
+ 
+Perkenalkan nama saya **Malvin Nuraffi Herdyanto**.<br>
+ 
+Saya seorang **Mahasiswa** di Universitas Gunadarma.<br>
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/dimasmds">
