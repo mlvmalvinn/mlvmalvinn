@@ -1,4 +1,4 @@
-![image](https://github.com/mlvmalvinn/mlvmalvinn/assets/152082129/00123c48-f063-4325-a0ea-f2e07aebc828)# Halo semua! 
+# Halo semua! 
  Hello I'm **Malvin Nuraffi Herdyanto**, just your everyday ordinary not special lazy unmotivated sometimes coder.<br>
  
 I'm currently a University Student studying at Gunadarma University enrolling on "Information System's" degree.<br>
