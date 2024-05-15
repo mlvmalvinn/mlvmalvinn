@@ -1,4 +1,4 @@
-# Halo semua! 
+# Hello and Welcome! 
  Hello I'm **Malvin Nuraffi Herdyanto**, just your everyday ordinary not special lazy unmotivated sometimes coder.<br>
  
 I'm currently a University Student studying at Gunadarma University enrolling on "Information System's" degree.<br>
