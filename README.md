@@ -1,7 +1,7 @@
 # Hello and Welcome! 
  Hello I'm **Malvin Nuraffi Herdyanto**, just your everyday ordinary not special lazy unmotivated sometimes coder.<br>
  
-I'm currently a University Student studying at Gunadarma University enrolling on "Information System's" degree.<br>
+A Gunadarma University Graduate enrolled on "Information System's" degree.<br>
 Often I come here to do dumb stuff and just type random thing's, or **most** of the time, just laying in my bed.<br>
 Don't expect me to reply quickly, I wont, just be patient.
 ### My Current **Github Statistic**
