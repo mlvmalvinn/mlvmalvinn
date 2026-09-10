@@ -114,7 +114,7 @@ I'm **Malvin** — just your everyday, ordinary, not-special, lazy, unmotivated 
   <img alt="a gold snake devouring an ordinary contribution graph" src="https://raw.githubusercontent.com/mlvmalvinn/mlvmalvinn/output/github-contribution-grid-snake.svg" width="80%"/>
 </picture>
 
-<sub>*A gold-plated snake, eating the same three green squares every year. (Renders after the first Action run — see workflow below.)*</sub>
+<sub>*A gold-plated snake, eating the same three green squares every year.*</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:0D0D0D&height=4&width=100%25&animation=blinking" width="100%"/>
 
