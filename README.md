@@ -60,11 +60,49 @@ I'm **Malvin** — just your everyday, ordinary, not-special, lazy, unmotivated 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:0D0D0D&height=4&width=100%25&animation=blinking" width="100%"/>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,100:FFD700&height=70&section=header&text=%E2%97%86%20THE%20QUARTERLY%20REPORT%20%E2%97%86&fontSize=26&fontColor=FFD700&animation=twinkling&fontAlignY=55" width="100%"/>
+
+<sub>*day-by-day trading activity, printed on premium card stock*</sub>
+
+<br>
+
+<img src="https://ghchart.rshah.org/FFD700/mlvmalvinn" alt="daily commit activity chart" width="90%"/>
+
+<sub>*Quiet quarter. The board remains unconcerned.*</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:0D0D0D&height=4&width=100%25&animation=blinking" width="100%"/>
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,100:FFD700&height=70&section=header&text=%E2%97%86%20THE%20CABINET%20%E2%97%86&fontSize=26&fontColor=FFD700&animation=twinkling&fontAlignY=55" width="100%"/>
 
 <sub>*participation trophies included*</sub>
 
 <img src="https://github-trophies.vercel.app/?username=mlvmalvinn&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&background=0D0D0D"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:0D0D0D&height=4&width=100%25&animation=blinking" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,100:FFD700&height=70&section=header&text=%E2%97%86%20THE%20CONGLOMERATE%20%E2%97%86&fontSize=26&fontColor=FFD700&animation=twinkling&fontAlignY=55" width="100%"/>
+
+<sub>*a totally real corporate structure*</sub>
+
+</div>
+
+> **Holding Company:** Malvin Nuraffi Herdyanto Enterprises™
+>
+> **GitHub Organizations Joined:** 0
+>
+> **Notable Subsidiary:** [`Organizaion-try`](https://github.com/mlvmalvinn/Organizaion-try) — filed under "organization" in name only. Contains no employees, no shareholders, and, per the commit history, no actual organization. Also the name is spelled wrong.
+
+<div align="center">
+
+| Subsidiary | Sector | Status |
+|---|---|---|
+| `DeltaSquadron-Random-Code` | Chaos R&D | Actively Confusing |
+| `mlv-code-warehouse` | Logistics (Testing) | Permanently Under Construction |
+| `Organizaion-try` | Organizational Development | Spelling Pending |
+| `korsera` | Consumer Python Goods | Shipped Once |
+| `it-cert-automation-practice` | Forked Acquisitions | Acquired from Google, Barely Touched |
+
+<sub>*Diversified across five (5) sectors. Zero (0) of them profitable.*</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:0D0D0D&height=4&width=100%25&animation=blinking" width="100%"/>
 
